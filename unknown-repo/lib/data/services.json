@@ -1,0 +1,34 @@
+[
+  {
+    "id": "spa",
+    "nameAr": "سبا وعافية",
+    "nameEn": "Spa & Wellness",
+    "slug": "spa",
+    "descriptionAr": "جلسات تدليك وحمامات فاخرة لغير النزلاء",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "dining",
+    "nameAr": "مطاعم",
+    "nameEn": "Dining",
+    "slug": "dining",
+    "descriptionAr": "بوفيهات ومطاعم مميزة مع عروض 1+1",
+    "icon": "Utensils"
+  },
+  {
+    "id": "activities",
+    "nameAr": "أنشطة",
+    "nameEn": "Activities",
+    "slug": "activities",
+    "descriptionAr": "برك سباحة، شواطئ خاصة وتجارب فندقية",
+    "icon": "Waves"
+  },
+  {
+    "id": "hotels",
+    "nameAr": "فنادق",
+    "nameEn": "Hotels",
+    "slug": "hotels",
+    "descriptionAr": "حجوزات يومية وغرف نهارية",
+    "icon": "Hotel"
+  }
+]

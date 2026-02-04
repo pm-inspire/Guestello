@@ -1,0 +1,86 @@
+[
+  {
+    "serviceId": "hilton-riyadh-alnazeer",
+    "items": [
+      {
+        "id": "kabsa",
+        "serviceId": "hilton-riyadh-alnazeer",
+        "name": "كبسة دجاج",
+        "description": "أرز طويل الحبة مع بهارات سعودية ودجاج مشوي",
+        "price": 45,
+        "image": "https://images.unsplash.com/photo-1625943555419-56a2cb596640?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "id": "lentil-soup",
+        "serviceId": "hilton-riyadh-alnazeer",
+        "name": "شوربة عدس",
+        "description": "شوربة عدس مخملية مع خبز محمص",
+        "price": 22,
+        "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "id": "baklava",
+        "serviceId": "hilton-riyadh-alnazeer",
+        "name": "بقلاوة فاخرة",
+        "description": "بقلاوة مع فستق وعسل",
+        "price": 28,
+        "image": "https://images.unsplash.com/photo-1505253216365-94c7628b3d69?auto=format&fit=crop&w=900&q=80"
+      }
+    ]
+  },
+  {
+    "serviceId": "ritz-cairo-sky-dining",
+    "items": [
+      {
+        "id": "grilled-salmon",
+        "serviceId": "ritz-cairo-sky-dining",
+        "name": "سلمون مشوي",
+        "description": "سلمون نرويجي مع خضار موسمية",
+        "price": 120,
+        "image": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "id": "truffle-pasta",
+        "serviceId": "ritz-cairo-sky-dining",
+        "name": "باستا بالكمأة",
+        "description": "صوص كريمي مع زيت الكمأة",
+        "price": 95,
+        "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=900&q=80"
+      }
+    ]
+  },
+  {
+    "serviceId": "mandarin-jeddah-spa",
+    "items": [
+      {
+        "id": "deep-tissue",
+        "serviceId": "mandarin-jeddah-spa",
+        "name": "مساج عميق",
+        "description": "جلسة 60 دقيقة لإرخاء العضلات",
+        "price": 320,
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "id": "aroma",
+        "serviceId": "mandarin-jeddah-spa",
+        "name": "علاج عطري",
+        "description": "زيوت عطرية فاخرة",
+        "price": 260,
+        "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=900&q=80"
+      }
+    ]
+  },
+  {
+    "serviceId": "st-regis-cairo-spa",
+    "items": [
+      {
+        "id": "hot-stone",
+        "serviceId": "st-regis-cairo-spa",
+        "name": "حجارة ساخنة",
+        "description": "جلسة علاجية 75 دقيقة",
+        "price": 350,
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=80"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "serviceId": "hilton-riyadh-alnazeer",
+    "days": [
+      {
+        "date": "2026-02-04",
+        "slots": [
+          { "time": "18:00", "available": true },
+          { "time": "19:00", "available": true },
+          { "time": "20:00", "available": false },
+          { "time": "21:00", "available": true }
+        ]
+      },
+      {
+        "date": "2026-02-05",
+        "slots": [
+          { "time": "18:30", "available": true },
+          { "time": "19:30", "available": false },
+          { "time": "20:30", "available": true }
+        ]
+      }
+    ]
+  },
+  {
+    "serviceId": "ritz-cairo-sky-dining",
+    "days": [
+      {
+        "date": "2026-02-04",
+        "slots": [
+          { "time": "17:00", "available": false },
+          { "time": "18:00", "available": true },
+          { "time": "19:00", "available": true },
+          { "time": "20:00", "available": true }
+        ]
+      }
+    ]
+  },
+  {
+    "serviceId": "mandarin-jeddah-spa",
+    "days": [
+      {
+        "date": "2026-02-04",
+        "slots": [
+          { "time": "12:00", "available": true },
+          { "time": "14:00", "available": true },
+          { "time": "16:00", "available": false }
+        ]
+      }
+    ]
+  }
+]

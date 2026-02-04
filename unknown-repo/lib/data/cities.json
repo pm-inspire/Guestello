@@ -1,0 +1,30 @@
+[
+  {
+    "id": "riyadh",
+    "nameAr": "الرياض",
+    "nameEn": "Riyadh",
+    "slug": "riyadh",
+    "country": "SA"
+  },
+  {
+    "id": "jeddah",
+    "nameAr": "جدة",
+    "nameEn": "Jeddah",
+    "slug": "jeddah",
+    "country": "SA"
+  },
+  {
+    "id": "cairo",
+    "nameAr": "القاهرة",
+    "nameEn": "Cairo",
+    "slug": "cairo",
+    "country": "EG"
+  },
+  {
+    "id": "alexandria",
+    "nameAr": "الإسكندرية",
+    "nameEn": "Alexandria",
+    "slug": "alexandria",
+    "country": "EG"
+  }
+]

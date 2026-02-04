@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ORD-2314",
+    "type": "table",
+    "status": "Confirmed",
+    "serviceName": "مطعم النذير",
+    "hotelName": "Hilton Riyadh",
+    "date": "2026-02-04 19:00",
+    "total": 180
+  },
+  {
+    "id": "ORD-1777",
+    "type": "delivery",
+    "status": "Delivered",
+    "serviceName": "سكاي لاونج",
+    "hotelName": "The Ritz-Carlton Cairo",
+    "date": "2026-02-02 21:30",
+    "total": 260
+  },
+  {
+    "id": "ORD-1110",
+    "type": "table",
+    "status": "Pending",
+    "serviceName": "سبا الماندرين",
+    "hotelName": "Mandarin Oriental Jeddah",
+    "date": "2026-02-05 12:00",
+    "total": 320
+  }
+]
