@@ -27,7 +27,7 @@ export function SiteHeader() {
               <Hotel className="h-5 w-5" />
             </div>
             <div className="hidden sm:block">
-              <p className="text-lg font-bold">مضيف</p>
+              <p className="text-lg font-bold">Guestello</p>
               <p className="text-xs text-muted-foreground">
                 Hotel Services Marketplace
               </p>
