@@ -13,6 +13,7 @@ import { ServiceMenu } from "@/components/search/service-menu";
 import { CitySelect } from "@/components/search/city-select";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
+import logo from "./logo.png";
 
 export function SiteHeader() {
   const [city, setCity] = useState("riyadh");
@@ -23,15 +24,15 @@ export function SiteHeader() {
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-4 py-3 lg:px-6">
         <div className="flex items-center gap-3">
           <Link href="/" className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-primary text-primary-foreground">
-              <Hotel className="h-5 w-5" />
+            <div className="flex h-10 w-30 items-center justify-center rounded-2xl bg-primary text-primary-foreground">
+              <img src={logo.src} alt="Guestello" className="h-10 w-30" />
             </div>
-            <div className="hidden sm:block">
-              <p className="text-lg font-bold">مضيف</p>
+            {/* <div className="hidden sm:block">
+              <p className="text-lg font-bold">Guestello</p>
               <p className="text-xs text-muted-foreground">
                 Hotel Services Marketplace
               </p>
-            </div>
+            </div> */}
           </Link>
           <div className="hidden lg:flex items-center gap-3">
             <CitySelect value={city} onValueChange={setCity} />
